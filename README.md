@@ -1,2 +1,1 @@
-# ml-fun
-Exploring machine learning
+Sandbox application to get to know scikit-learn, TensorFlow, and the basics of machine learning.
